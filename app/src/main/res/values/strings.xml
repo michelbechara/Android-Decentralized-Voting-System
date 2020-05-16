@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Candidates</string>
+    <string name="loadingtxt">The data is being loaded from the Blockchain.\nPlease Be Patient.</string>
+    <string name="permission_necessary">hello</string>
+    <string name="storage_permission_is_encessary_to_wrote_event">hello</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_new_contract">NewContractActivity</string>
+
+    <string-array name="Gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+
+</resources>
